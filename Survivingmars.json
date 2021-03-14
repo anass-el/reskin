@@ -1,0 +1,187 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": " If you don’t need to rush to get colonists, don’t.",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Always have a stockpile.",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "Create smaller, self-sufficient grids.",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "Avoid introverts and old people.",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "Make sure you can keep everything running before you run out of money.",
+        "image": "image5.jpg"
+      },
+      {
+        "title": "However much housing you think you need, you probably need more.",
+        "image": "image6.jpg"
+      },
+      {
+        "title": "Skip the graveyard shift.",
+        "image": "image7.jpg"
+      },
+      {
+        "title": "Rovers can give each other a jump.",
+        "image": "image8.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image1.jpg",
+        "text": "The main thing living, breathing humans can produce that can’t be harvested or imported with an entirely robotic colony is Rare Metals, which are sold back to Earth for money. So as long as you’re not in danger of running out of funding, it’s perfectly possible to operate autonomously for as long as you need to in order to prepare a nice environment for your future colonists.
+		
+		You must continually import electronics, polymers, and machine parts from Earth, however, so keep an eye on your funds. Playing a sponsor like the US, which gives you periodic cash injections for doing nothing, or the EU, which pays you for every technology researched, makes this strategy particularly viable. It’s especially worthwhile to wait until you’ve unlocked technologies for better farming and housing before inviting the first wave of warm bodies.",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image2.jpg",
+        "text": "Some of the most important buildings in your colony are going to be power capacitors, oxygen tanks, and water towers. Place them close to critical structures and don’t be shy about building too many. The greater your reserve of these critical resources, the longer you’ll have to troubleshoot problems before all the lights go out and people have to start drinking their own pee. Ideally, you want to have at least enough of a reserve to cover the travel time of a cargo rocket from Earth, in case you end up in a situation where you need to import resources to get your infrastructure back online."
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image3.jpg",
+        "text": "Power lines and the pipes that carry water and oxygen have a higher breakdown chance the more things they’re connected to. This means it’s usually better to have a separate power and life support grid for each dome and drone hub. Stretching power cables across your entire colony just means you’ll be constantly draining your metal supply to keep it all working. For a small, drone-only mining outpost, a single large solar panel connected to the drone hub and a power capacitor with a one-tile cable will suffice.",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "There are two groups of people who are very likely to ruin everything once they get to Mars: loners and the elderly. Senior citizens won’t get jobs, but still expect a pension so they can play blackjack and buy video games. Loners will constantly lose comfort when placed into a population above a certain size, which makes them almost impossible to please, even if everything else in their lives is perfect. You’d think being on freaking Mars, millions of miles away from the vast majority of human society, would make them happy. But no. I try to get as many younger, sociable colonists as possible when I’m filtering potential applicants.",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image5.jpg",
+        "text": "The ultimate test of a Martian colony is achieving self-sufficiency before funding runs out. In addition to harvesting enough food to keep your colonists fed, this means producing concrete, metals, polymers, machine parts, and electronics in sufficient quantities to repair anything that breaks down. A lack of any of these materials could lead to a cascading infrastructure failure and a lot of dead colonists very quickly – especially if you don’t have the cash to import an emergency shipment from Earth. Don’t wind up in a situation where you forgot to get an electronics factory prefab and suddenly can’t afford to buy one, dooming what was looking to be a successful and prosperous operation you’ve already put a lot of work into.",
+        "isNative": "true"
+      }
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image6.jpg",
+        "text": "There are a lot of important jobs to do on Mars. Seriously, a lot. Especially when you factor in the aforementioned old people who won’t pull their weight. It’s very easy to make a luxurious dome that looks great, but doesn’t support a population needed to run all of its services properly. In a typical dome, I devote nearly half of the real estate to residential apartments. And once I unlock the arcology spire, which provides even more housing, it becomes almost mandatory. Restaurants and hospitals are no good if they aren’t staffed, and the problem is only made worse if you have resource extraction buildings that require human labor outside the dome competing for your colonists’ time.",
+        "isNative": "true"
+      }
+    ],
+    "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image7.jpg",
+        "text": "If your population is large enough, it’s possible to keep most buildings working around the clock. The problem is, the Martian night depletes sanity faster than most colonists will be able to restore it. Thus, I generally force all of my industries and services to close at night and operate only the morning and evening shifts. It’s a loss of 33 percent of your potential productivity, but having a third of your population going crazy because they swear they saw a cacodemon floating in the darkness beyond the dunes is really more trouble than those extra machine parts are worth.",
+        "isNative": "true"
+      }
+    ],
+    "content8": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image8.jpg",
+        "text": "The first time I had a science rover run out of power several kilometers from home, I assumed it was gone forever and ordered a new one. As it turns out, rovers are equipped with jumper cables and can transfer power to each other, allowing you to rescue stranded ones fairly easily. The hints system never tells you this, so it’s fully possible that you’ve made the surface of Mars into an RC graveyard by now. Go bring those little guys home.",
+        "isNative": "true"
+      }
+    ]
+  }
+}
