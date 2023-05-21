@@ -1,0 +1,28 @@
+{
+  "version": "1v",
+  
+  
+  "admobbannerId": "ca-app-pub-3940256099942544/6300978111",
+  "admobInterId": "ca-app-pub-3940256099942544/1033173712",
+  "admobReward": "ca-app-pub-3940256099942544/5224354917",
+  
+  "applovinsdk": "394025609994256300978111446300978111",
+   "applovinbanner": "bannerApplovin",
+  "applovininter": "InterAPplovin",
+  "applovinreward": "RewardApplovin",
+
+
+  "fanb": "Rewarded_Android",
+  "fani": "Rewarded_Android",
+  "fanr": "Rewarded_Android",
+
+  "adscounter": "1",
+
+
+ 
+    "adsSwitchInter": "1",
+  "adsSwitchBanner": "1",
+  "adsSwitchReward": "1"
+  
+  
+}
